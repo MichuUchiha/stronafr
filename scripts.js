@@ -1,6 +1,6 @@
 /* -- Glow effect -- */
 
-const blob = document.getElementById("blob");
+/*const blob = document.getElementById("blob");
 
 window.onpointermove = (event) => {
   const { clientX, clientY } = event;
@@ -13,3 +13,4 @@ window.onpointermove = (event) => {
     { duration: 3000, fill: "forwards" }
   );
 };
+*/
