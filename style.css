@@ -450,7 +450,7 @@ button:hover {
   filter: blur(30px);
 }
 
-@keyframes rotate {
+/*@keyframes rotate {
   from {
     rotate: 0deg;
   }
@@ -464,7 +464,7 @@ button:hover {
   }
 }
 
-/*#blob {
+#blob {
   background-color: white;
   height: 12vmax;
   aspect-ratio: 1;
