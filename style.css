@@ -464,7 +464,7 @@ button:hover {
   }
 }
 
-#blob {
+/*#blob {
   background-color: white;
   height: 12vmax;
   aspect-ratio: 1;
@@ -477,3 +477,4 @@ button:hover {
   animation: rotate 20s infinite;
   opacity: 0.25;
 }
+*/
