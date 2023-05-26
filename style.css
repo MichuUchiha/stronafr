@@ -45,6 +45,11 @@ article {
 
   display: block;
 }
+@media (width<800px) {
+  .headerimg {
+    height: 50%;
+  }
+}
 .red {
   color: red;
   text-align: center;
