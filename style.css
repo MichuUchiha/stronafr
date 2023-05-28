@@ -56,6 +56,8 @@ article {
   background: red;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+    text-decoration: underline red;
+
 }
 h2 .red {
   font-size: 25px;
@@ -69,13 +71,15 @@ h2 .red {
   background: blue;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+    text-decoration: underline blue;
+
 }
 .green {
   color: green;
   background: green;
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
-  text-decoration: underline red;
+  text-decoration: underline green;
 }
 .yellow {
   color: rgb(60, 255, 0);
